@@ -1,0 +1,85 @@
+body{
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 14px !important;
+}
+
+.ib-header{
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.ib-header a{
+  color: #292b2c;
+}
+
+.navbar-brand{
+  color: #2e3031;
+}
+
+.c-btn{
+  padding: 8px 20px !important;
+  border-radius: 3px !important;
+  font-size: 14px !important;
+}
+
+.c-btn-primary{
+  background-color: #1F8CEB !important;
+  color: #ffffff !important;
+}
+
+.c-bg-primary{
+  background-color: #1F8CEB !important;
+}
+
+.header-input input[type=text]{
+  font-size: 14px;
+  border: 1px solid #e0e0e0;
+  padding: 8px 10px;
+}
+
+.header-input button{
+  font-size: 14px;
+  padding: 0 10px;
+  border: 0;
+}
+
+.header-input.large input[type=text]{
+  font-size: 15px;
+  border: 1px solid #e0e0e0;
+  padding: 15px;
+}
+
+.header-input.large button{
+  padding: 0 25px;
+  font-size: 15px;
+}
+
+.ib-heading-text{
+  font-size: 2em;
+  color: #1f8ceb !important;
+  letter-spacing: 0.08rem;
+}
+
+.ib-subheading-text{
+  font-size: 1.27em;
+  letter-spacing: 0.08em;
+  color: #2d2f31;
+  line-height: 30px;
+  margin-top: 10px;
+}
+
+.ib-details-text{
+  font-size: 1.1em;
+  letter-spacing: 0.08em;
+  color: #2d2f31;
+  line-height: 22px;
+  margin-top: 10px;
+}
+
+.border-top{
+  border-top: 1px solid #e0e0e0;
+}
+
+footer{
+  padding: 20px 0px;
+}
