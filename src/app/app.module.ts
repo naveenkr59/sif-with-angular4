@@ -14,9 +14,6 @@ import { PlatformModule } from './platform/platform.module';
 import { AuthLinksComponent } from './authentication/auth-links.component';
 import { MarketingComponent } from './marketing/marketing.component';
 import { AboutComponent } from './marketing/about/about.component';
-import { CargopantherComponent } from './marketing/products/cargopanther/cargopanther.component';
-import { DeliverystoneComponent } from './marketing/products/deliverystone/deliverystone.component';
-import { ReverseblueComponent } from './marketing/products/reverseblue/reverseblue.component';
 
 @NgModule({
   declarations: [
@@ -24,9 +21,6 @@ import { ReverseblueComponent } from './marketing/products/reverseblue/reversebl
     AuthLinksComponent,
     MarketingComponent,
     AboutComponent,
-    CargopantherComponent,
-    DeliverystoneComponent,
-    ReverseblueComponent,
     UserComponent
   ],
   imports: [

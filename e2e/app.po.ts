@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class InventblueUiPage {
+export class SifUiPage {
   navigateTo() {
     return browser.get('/');
   }

@@ -1,10 +1,10 @@
-import { InventblueUiPage } from './app.po';
+import { SifUiPage } from './app.po';
 
-describe('inventblue-ui App', () => {
-  let page: InventblueUiPage;
+describe('sif-ui App', () => {
+  let page: SifUiPage;
 
   beforeEach(() => {
-    page = new InventblueUiPage();
+    page = new SifUiPage();
   });
 
   it('should display message saying app works', () => {
